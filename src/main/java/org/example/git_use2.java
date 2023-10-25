@@ -5,6 +5,8 @@ public class git_use2 {
         System.out.println("git commit");
         System.out.println("git commit2");
         System.out.println("master 冲突合并");
+        System.out.println("hot-fix");
+        System.out.println("冲突合并");
     }
 }
 
