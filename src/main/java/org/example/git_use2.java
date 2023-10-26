@@ -9,6 +9,7 @@ public class git_use2 {
         System.out.println("冲突合并");
         System.out.println("push test");
         System.out.println("2233");
+        System.out.println("pull test");
     }
 }
 
